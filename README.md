@@ -2,7 +2,7 @@
 
 Hello World!
 
-This is a web based guessing game using the RGB colour index. Players consider the red, green and blue saturations (as indicated in the heading - RGB(X, X, X)) and select which tile they believe shows the correct RBG colour.
+This is a web based guessing game using the RGB colour index. Players consider the red, green and blue saturations (as indicated in the heading - RGB(X, X, X)) and select which tile they believe shows the correct RGB colour.
 
 There is an 'Easy Mode' (3 tiles) and a 'Hard Mode' (6 tiles). The player can also choose to reset the tiles to new colours should they not like the range.
 
